@@ -14,6 +14,7 @@
 		CFE912CF224DEEA500DEAF7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFE912CD224DEEA500DEAF7E /* LaunchScreen.storyboard */; };
 		CFE912DA224DEEA500DEAF7E /* PhotoMasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE912D9224DEEA500DEAF7E /* PhotoMasterTests.swift */; };
 		CFE912E5224DEEA500DEAF7E /* PhotoMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE912E4224DEEA500DEAF7E /* PhotoMasterUITests.swift */; };
+		CFE912F5224DF60900DEAF7E /* good.png in Resources */ = {isa = PBXBuildFile; fileRef = CFE912F4224DF60900DEAF7E /* good.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CFE912E0224DEEA500DEAF7E /* PhotoMasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoMasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE912E4224DEEA500DEAF7E /* PhotoMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoMasterUITests.swift; sourceTree = "<group>"; };
 		CFE912E6224DEEA500DEAF7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFE912F4224DF60900DEAF7E /* good.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = good.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CFE912C8224DEEA400DEAF7E /* Main.storyboard */,
 				CFE912CB224DEEA500DEAF7E /* Assets.xcassets */,
 				CFE912CD224DEEA500DEAF7E /* LaunchScreen.storyboard */,
+				CFE912F4224DF60900DEAF7E /* good.png */,
 				CFE912D0224DEEA500DEAF7E /* Info.plist */,
 			);
 			path = PhotoMaster;
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFE912F5224DF60900DEAF7E /* good.png in Resources */,
 				CFE912CF224DEEA500DEAF7E /* LaunchScreen.storyboard in Resources */,
 				CFE912CC224DEEA500DEAF7E /* Assets.xcassets in Resources */,
 				CFE912CA224DEEA400DEAF7E /* Main.storyboard in Resources */,
